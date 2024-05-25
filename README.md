@@ -1,5 +1,5 @@
 ### Hello.
-I am a new software developer currently going through a full-stack development bootcamp at Tech Elevator. 
+I am a junior software developer currently trying to break into the industry.
 <!--
 **carabria/carabria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
