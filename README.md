@@ -1,5 +1,5 @@
 ### Hello.
-I am a junior software developer currently trying to break into the industry.
+I am a junior software developer currently trying to break into the industry. I attended a bootcamp called Tech Elevator that taught me the ofundational skills I needed to get started, and from there I have let my passions drive me.
 <!--
 **carabria/carabria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
